@@ -3,7 +3,7 @@ from aiogram import Bot, Dispatcher, executor, types
 import python_weather
 import asyncio
 
-bot = Bot(token="7898385167:AAGy2-ho6sYQYTPheZo20fxeDY9haoH7THY")
+bot = Bot(token="")
 
 client = python_weather.Client(format=python_weather.IMPERIAL)
 
